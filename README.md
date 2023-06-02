@@ -21,6 +21,11 @@ The smart meter is an advanced metering device that records electricity consumpt
 
 1- Firebase is a comprehensive mobile and web development platform provided by Google that is used to interconnect the meter and application for data transmission. Firebase provides a NoSQL cloud-hosted database that allows developers to store and synchronize data in real-time across multiple clients. It uses a real-time synchronization mechanism, enabling immediate updates to be propagated to all connected clients and Firebase includes built-in authentication services that support various authentication methods such as email/password, phone number, Google, Facebook, Twitter, and more. This simplifies user authentication and enables secure access control for your application.
 
+
+![Untitled design1](https://github.com/IbraheemAljolani/Arduino-EnergyMeter/assets/124505345/d2740669-6b42-4c1d-a509-1361f7bd59eb)
+
+
+
 2- Blynk is a software platform that enables developers to easily and quickly create Internet of Things (Internet of Things) applications that were relied upon to create the prototype of the mobile application.
 
 
